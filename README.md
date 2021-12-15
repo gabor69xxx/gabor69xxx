@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabor69xxx
-- 👀 I’m interested in writing simulations for molecular dinamics
+- 👀 I’m interested in writing simulations for molecular dynamics
 - 🌱 I’m currently learning biophysics
 - 💞️ I’m looking to collaborate on python in science
 - 📫 How to reach me g.niechwiado@student.uw.edu.pl
